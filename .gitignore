@@ -1,0 +1,46 @@
+# General
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+.DS_Store
+/.idea/
+
+# IntelliJ specific files
+.idea/*
+!/.idea/inspectionProfiles/*
+!.idea/codeStyles
+!.idea/dictionaries
+!.idea/description.html
+!*.iml
+
+# Target folder
+/target/
+
+# Maven specific files
+.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+*.stackdump
+
+# Eclipse specific files
+.project
+.classpath
+.c9/
+.settings/
+.springBeans
